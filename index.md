@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Pronunciation of Latin</title>
+        <h1>Pronunciation of Latin</h>
     </head>
     <body>
         <p>Here is how to pronounce the Latin language</p>
