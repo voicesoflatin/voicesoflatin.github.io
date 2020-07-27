@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Hello, World!</title>
+        <title>Pronunciation of Latin</title>
     </head>
     <body>
-        <p>Hello, World!</p>
+        <p>Here is how to pronounce the Latin language</p>
     </body>
 </html>
