@@ -1,4 +1,3 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<img class="cl" src="photo/198.jpg" />
-</br> <audio class="cs">
-<source src="http://www.w3schools.com/html/horse.mp3" type="audio/mpeg"> </audio>
+<a onclick="document.getElementById('839_taste_gustum.ogg').play();">
+<img src="Screenshot_20200727-175847_Discord.jpg">
+</a>
